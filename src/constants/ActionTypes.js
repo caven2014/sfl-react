@@ -1,0 +1,19 @@
+// export const ADD_TODO = 'ADD_TODO'
+
+export const SHOW_ACTIONSHEET = 'SHOW_ACTIONSHEET'
+
+export const HIDE_ACTIONSHEET = 'HIDE_ACTIONSHEET'
+
+export const FETCH_SFLDATA = 'FETCH_SFLDATA'
+
+export const FETCH_REQUEST = 'FETCH_REQUEST'
+
+export const CONNECT = 'CONNECT'
+
+export const DISCONNECT = 'DISCONNECT'
+
+export const RECEIVE_MESSAGE = 'RECEIVE_MESSAGE'
+
+export const POST_MESSAGE = 'POST_MESSAGE'
+
+export const BEARING_WARNING = 'BEARING_WARNING'
